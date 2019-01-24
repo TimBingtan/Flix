@@ -1,0 +1,6 @@
+framework module Pods_tumblerLab {
+  umbrella header "Pods-tumblerLab-umbrella.h"
+
+  export *
+  module * { export * }
+}
